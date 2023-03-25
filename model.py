@@ -1,8 +1,5 @@
 import pandas as pd
 from flask import Flask, jsonify, request
-import sys
-sys.path.append("/Users/raghavsharma/Documents/Programming/Code By The Beach/modeL_helper.py")
-from model_helper import *
 from random import choice
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.metrics import accuracy_score
