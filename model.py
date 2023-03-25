@@ -56,9 +56,3 @@ def get_predection1():
 
     # Firestore
     return jsonify({'prediction': prediction, "uid" : new_prediction_data.get("uid")})
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
-
-print("Complete")
