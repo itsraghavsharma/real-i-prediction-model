@@ -1,0 +1,179 @@
+Sex,Name,Age,Married,Disability,False of Siblings,Area,Income,Scholarship,State,Transport Facilities,Drinking Water Availability,Toilet Facilities,Distance from School (),Dropout
+M,Aarav Singh,13,FALSE,FALSE,2,Urban,4,TRUE,Uttar Pradesh,School Bus,TRUE,TRUE,4.2,FALSE
+F,Aadhya Sharma,11,FALSE,FALSE,1,Rural,2.5,FALSE,Punjab,Walking,TRUE,TRUE,2.5,FALSE
+M,Advait Patel,12,FALSE,TRUE,3,Urban,3,FALSE,Gujarat,Public Transportation,TRUE,TRUE,1.8,TRUE
+F,Aditi Desai,14,FALSE,FALSE,2,Rural,2.2,TRUE,Maharashtra,Walking,TRUE,TRUE,2.9,FALSE
+M,Aryan Gupta,10,FALSE,FALSE,0,Urban,4.5,FALSE,Delhi,School Bus,TRUE,TRUE,3.6,FALSE
+F,Anaya Shah,15,FALSE,FALSE,4,Rural,1.8,FALSE,Rajasthan,Walking,FALSE,FALSE,4.1,TRUE
+M,Arjun Iyer,12,FALSE,FALSE,2,Urban,3.5,TRUE,Tamil Nadu,Public Transportation,TRUE,TRUE,2.1,FALSE
+F,Avni Reddy,13,FALSE,FALSE,1,Rural,2.7,FALSE,Telangana,Walking,TRUE,TRUE,3.5,FALSE
+M,Daksh Singh,11,FALSE,FALSE,3,Urban,3.2,FALSE,Haryana,School Bus,TRUE,TRUE,2.4,FALSE
+F,Devika Mishra,14,FALSE,FALSE,2,Rural,2.4,TRUE,Madhya Pradesh,Walking,TRUE,TRUE,3.2,FALSE
+M,Chirag Gupta,12,FALSE,FALSE,1,Urban,3.8,FALSE,Maharashtra,Public Transportation,TRUE,TRUE,2.3,FALSE
+F,Disha Shah,10,FALSE,FALSE,0,Rural,3,TRUE,Gujarat,Walking,TRUE,TRUE,1.9,FALSE
+M,Eshan Sharma,13,FALSE,TRUE,2,Urban,2.9,FALSE,Karnataka,Public Transportation,TRUE,TRUE,3.1,FALSE
+F,Ekta Singh,12,FALSE,FALSE,2,Rural,2.6,FALSE,Uttar Pradesh,Walking,TRUE,TRUE,2.7,FALSE
+M,Farhan Khan,12,FALSE,FALSE,1,Urban,4,TRUE,Maharashtra,School Bus,TRUE,TRUE,3.2,FALSE
+F,Fatima Sheikh,14,FALSE,FALSE,2,Rural,2.2,FALSE,Rajasthan,Walking,TRUE,TRUE,3.8,TRUE
+M,Gaurav Yadav,12,FALSE,FALSE,3,Urban,3.5,FALSE,Delhi,Public Transportation,TRUE,TRUE,2.2,FALSE
+F,Gayatri Reddy,13,FALSE,FALSE,1,Rural,2.7,TRUE,Andhra Pradesh,Walking,TRUE,TRUE,4,FALSE
+M,Himanshu Singh,11,FALSE,FALSE,0,Urban,4.5,FALSE,Haryana,School Bus,TRUE,TRUE,3.4,FALSE
+F,Hina Gupta,15,FALSE,FALSE,4,Rural,1.8,FALSE,Chhattisgarh,Walking,FALSE,TRUE,4.2,TRUE
+M,Ishaan Patel,12,FALSE,FALSE,2,Urban,3.2,TRUE,Gujarat,Public Transportation,TRUE,TRUE,2.5,FALSE
+F,Inaaya Khan,13,FALSE,FALSE,1,Rural,2.4,FALSE,Maharashtra,Walking,TRUE,TRUE,3.3,FALSE
+F,Aditi Singh,12,FALSE,FALSE,2,Urban,3.5,FALSE,Uttar Pradesh,School Bus,TRUE,TRUE,2.1,FALSE
+M,Advaita Sharma,11,FALSE,TRUE,3,Rural,2.8,TRUE,Punjab,Walking,TRUE,TRUE,4.5,FALSE
+F,Anjali Patel,13,FALSE,FALSE,1,Urban,3.2,TRUE,Gujarat,Public Transportation,TRUE,TRUE,3.2,FALSE
+M,Arjun Desai,14,FALSE,FALSE,0,Rural,4.2,FALSE,Maharashtra,Walking,TRUE,TRUE,3.1,FALSE
+F,Avni Gupta,15,FALSE,TRUE,2,Urban,2.9,TRUE,Delhi,School Bus,TRUE,TRUE,2.8,FALSE
+M,Ayaan Shah,12,FALSE,FALSE,3,Rural,2.4,FALSE,Rajasthan,Walking,TRUE,TRUE,2.5,TRUE
+F,Chhaya Iyer,13,FALSE,FALSE,2,Urban,3.8,TRUE,Tamil Nadu,Public Transportation,TRUE,TRUE,3.1,FALSE
+M,Dhruv Reddy,11,FALSE,FALSE,1,Rural,3,FALSE,Telangana,Walking,TRUE,TRUE,2.7,FALSE
+F,Eesha Singh,14,FALSE,FALSE,2,Urban,3.6,FALSE,Haryana,Public Transportation,TRUE,TRUE,4,FALSE
+M,Devansh Mishra,12,FALSE,FALSE,1,Rural,2.6,TRUE,Madhya Pradesh,Walking,TRUE,TRUE,2.2,FALSE
+F,Fatima Gupta,10,FALSE,FALSE,0,Urban,4,FALSE,Maharashtra,School Bus,TRUE,TRUE,3.8,FALSE
+M,Gaurav Shah,13,FALSE,FALSE,2,Rural,2.2,TRUE,Gujarat,Walking,TRUE,TRUE,4.1,TRUE
+F,Ishani Sharma,12,FALSE,TRUE,1,Urban,3.1,FALSE,Karnataka,Public Transportation,TRUE,TRUE,3.3,FALSE
+M,Farhan Singh,11,FALSE,FALSE,2,Rural,2.5,FALSE,Uttar Pradesh,Walking,TRUE,TRUE,3.6,FALSE
+F,Himani Yadav,14,FALSE,FALSE,1,Urban,3.3,TRUE,Andhra Pradesh,School Bus,TRUE,TRUE,2.4,FALSE
+M,Jeet Patel,13,FALSE,FALSE,0,Rural,4.1,FALSE,Haryana,Walking,TRUE,TRUE,3.5,FALSE
+F,Kavya Reddy,11,FALSE,FALSE,4,Urban,2.7,FALSE,Chhattisgarh,Public Transportation,TRUE,TRUE,2.6,TRUE
+M,Kunal Gupta,15,FALSE,FALSE,3,Rural,1.8,TRUE,Maharashtra,Walking,TRUE,TRUE,2.9,FALSE
+F,Mahika Khan,12,FALSE,FALSE,2,Urban,3.4,FALSE,Rajasthan,Public Transportation,TRUE,TRUE,3.7,FALSE
+M,Naman Shah,13,FALSE,TRUE,1,Rural,2.9,TRUE,Punjab,Walking,TRUE,TRUE,2.8,FALSE
+F,Oviya Desai,11,FALSE,FALSE,1,Urban,3.6,FALSE,Tamil Nadu,School Bus,TRUE,TRUE,3.3,FALSE
+M,Pranav Reddy,14,FALSE,FALSE,2,Rural,2.3,FALSE,Telangana,Walking,TRUE,TRUE,2.4,TRUE
+F,Aanya Singh,10,FALSE,FALSE,1,Rural,2.8,TRUE,Madhya Pradesh,Walking,TRUE,TRUE,3.5,FALSE
+M,Abhinav Patel,11,FALSE,FALSE,2,Urban,3.8,FALSE,Gujarat,School Bus,TRUE,TRUE,2.8,FALSE
+F,Aditi Kumar,13,FALSE,FALSE,3,Rural,2.3,TRUE,West Bengal,Walking,TRUE,TRUE,4.1,TRUE
+M,Aditya Sharma,12,FALSE,FALSE,2,Urban,4.5,FALSE,Karnataka,Public Transportation,TRUE,TRUE,2.1,FALSE
+F,Advika Iyer,14,FALSE,FALSE,1,Rural,2.9,TRUE,Tamil Nadu,Walking,TRUE,TRUE,3.2,FALSE
+M,Ahmed Khan,10,FALSE,FALSE,0,Urban,4.2,TRUE,Maharashtra,School Bus,TRUE,TRUE,3.4,FALSE
+F,Akanksha Reddy,11,FALSE,FALSE,2,Rural,2.5,FALSE,Andhra Pradesh,Walking,TRUE,TRUE,4.2,TRUE
+M,Akshay Gupta,12,FALSE,FALSE,3,Urban,3.2,TRUE,Haryana,Public Transportation,TRUE,TRUE,2.5,FALSE
+F,Alisha Shah,13,FALSE,FALSE,1,Rural,2.7,FALSE,Delhi,Walking,TRUE,TRUE,3.8,FALSE
+M,Amir Khan,11,FALSE,FALSE,1,Urban,4,FALSE,Maharashtra,School Bus,TRUE,TRUE,3.1,FALSE
+F,Anjali Singh,14,FALSE,FALSE,2,Rural,2.2,TRUE,Uttar Pradesh,Walking,TRUE,TRUE,4,TRUE
+M,Ankit Yadav,12,FALSE,FALSE,2,Urban,3.5,TRUE,Madhya Pradesh,Public Transportation,TRUE,TRUE,2.3,FALSE
+F,Anushka Patel,15,FALSE,FALSE,4,Rural,1.8,FALSE,Gujarat,Walking,FALSE,TRUE,4.3,TRUE
+M,Aryan Singh,13,FALSE,TRUE,2,Urban,2.9,FALSE,Chhattisgarh,Public Transportation,TRUE,TRUE,3.4,FALSE
+F,Avani Sharma,12,FALSE,FALSE,2,Rural,2.6,FALSE,Rajasthan,Walking,TRUE,TRUE,2.9,FALSE
+M,Bhavya Patel,11,FALSE,FALSE,0,Urban,4.3,TRUE,Karnataka,School Bus,TRUE,TRUE,3,FALSE
+F,Bhumika Shah,13,FALSE,FALSE,1,Rural,2.4,TRUE,Gujarat,Walking,TRUE,TRUE,3.2,FALSE
+M,Chaitanya Iyer,12,FALSE,FALSE,2,Urban,3.3,FALSE,Tamil Nadu,Public Transportation,TRUE,TRUE,2.6,FALSE
+F,Chanchal Singh,10,FALSE,FALSE,1,Rural,3.1,FALSE,West Bengal,Walking,TRUE,TRUE,3.7,FALSE
+M,Darshan Sharma,11,FALSE,FALSE,2,Urban,3.7,TRUE,Haryana,School Bus,TRUE,TRUE,2.9,FALSE
+F,Deeksha Reddy,13,FALSE,FALSE,3,Rural,2.2,FALSE,Andhra Pradesh,Walking,TRUE,TRUE,4.1,TRUE
+M,Dev Gupta,12,FALSE,FALSE,1,Urban,4,TRUE,Maharashtra,Public Transportation,TRUE,TRUE,2.2,FALSE
+M,Aaditya Verma,12,FALSE,FALSE,3,Urban,4,FALSE,Maharashtra,School Bus,TRUE,TRUE,5.2,FALSE
+F,Aahana Patel,11,FALSE,FALSE,1,Rural,2.5,FALSE,Gujarat,Walking,TRUE,TRUE,2.1,FALSE
+M,Aarav Singh,13,FALSE,TRUE,1,Urban,3,TRUE,Delhi,Public Transportation,TRUE,TRUE,3.8,FALSE
+F,Aarohi Gupta,14,FALSE,FALSE,2,Rural,2.2,TRUE,Uttar Pradesh,Walking,TRUE,TRUE,3.9,TRUE
+M,Aaryan Sharma,10,FALSE,FALSE,0,Urban,4.5,FALSE,Chhattisgarh,School Bus,TRUE,TRUE,2.6,FALSE
+F,Aditi Desai,15,FALSE,FALSE,4,Rural,1.8,FALSE,Karnataka,Walking,FALSE,TRUE,4.1,TRUE
+M,Advait Patel,12,FALSE,FALSE,2,Urban,3.5,TRUE,Andhra Pradesh,Public Transportation,TRUE,TRUE,2.5,FALSE
+F,Aditi Sharma,13,FALSE,FALSE,1,Rural,2.7,FALSE,Punjab,Walking,TRUE,TRUE,2.9,FALSE
+M,Ajay Singh,11,FALSE,FALSE,3,Urban,3.2,FALSE,Rajasthan,School Bus,TRUE,TRUE,3.4,FALSE
+F,Akanksha Deshmukh,14,FALSE,FALSE,2,Rural,2.4,TRUE,Maharashtra,Walking,TRUE,TRUE,3.6,FALSE
+M,Akash Gupta,12,FALSE,FALSE,1,Urban,3.8,FALSE,Gujarat,Public Transportation,TRUE,TRUE,2.2,FALSE
+F,Alisha Shah,10,FALSE,FALSE,0,Rural,3,TRUE,Uttar Pradesh,Walking,TRUE,TRUE,1.8,FALSE
+M,Anish Iyer,13,FALSE,FALSE,2,Urban,2.9,FALSE,Tamil Nadu,Public Transportation,TRUE,TRUE,2.9,FALSE
+F,Anjali Reddy,12,FALSE,FALSE,2,Rural,2.6,TRUE,Telangana,Walking,TRUE,TRUE,3.3,FALSE
+M,Ankit Kumar,11,FALSE,FALSE,1,Urban,4,TRUE,Delhi,School Bus,TRUE,TRUE,3.1,FALSE
+F,Anshika Singh,14,FALSE,FALSE,2,Rural,2.2,FALSE,Haryana,Walking,TRUE,TRUE,4,TRUE
+M,Aryan Gupta,12,FALSE,FALSE,3,Urban,3.5,FALSE,Madhya Pradesh,Public Transportation,TRUE,TRUE,2.1,FALSE
+F,Asmi Patel,13,FALSE,FALSE,1,Rural,2.7,TRUE,Gujarat,Walking,TRUE,TRUE,3.5,FALSE
+M,Ayush Sharma,11,FALSE,FALSE,0,Urban,4.5,FALSE,Karnataka,School Bus,TRUE,TRUE,3.2,FALSE
+F,Bhavna Gupta,15,FALSE,FALSE,4,Rural,1.8,FALSE,Chhattisgarh,Walking,FALSE,TRUE,4.4,TRUE
+M,Chirag Yadav,12,FALSE,FALSE,2,Urban,3.2,TRUE,Uttar Pradesh,Public Transportation,TRUE,TRUE,2.8,FALSE
+F,Deepa Singh,13,FALSE,FALSE,1,Rural,2.4,FALSE,Maharashtra,Walking,TRUE,TRUE,3.2,FALSE
+M,Abhay Gupta,13,FALSE,FALSE,2,Urban,4.5,TRUE,Maharashtra,School Bus,TRUE,TRUE,2.5,FALSE
+F,Aditi Sharma,11,FALSE,FALSE,1,Rural,3,FALSE,Uttar Pradesh,Walking,TRUE,TRUE,3.2,FALSE
+M,Anshul Patel,12,FALSE,TRUE,3,Urban,4,FALSE,Gujarat,Public Transportation,TRUE,TRUE,1.9,TRUE
+F,Ankita Desai,14,FALSE,FALSE,2,Rural,2.5,TRUE,Rajasthan,Walking,TRUE,TRUE,2.8,FALSE
+M,Aryan Singh,10,FALSE,FALSE,0,Urban,5,FALSE,Delhi,School Bus,TRUE,TRUE,3.9,FALSE
+F,Ashna Shah,15,FALSE,FALSE,4,Rural,2,FALSE,Karnataka,Walking,FALSE,TRUE,4.3,TRUE
+M,Ayush Iyer,12,FALSE,FALSE,2,Urban,3.5,TRUE,Tamil Nadu,Public Transportation,TRUE,TRUE,2.3,FALSE
+F,Divya Reddy,13,FALSE,FALSE,1,Rural,2.8,FALSE,Telangana,Walking,TRUE,TRUE,3.9,FALSE
+M,Dhruv Singh,11,FALSE,FALSE,3,Urban,3,FALSE,Haryana,School Bus,TRUE,TRUE,2.1,FALSE
+F,Ekta Mishra,14,FALSE,FALSE,2,Rural,2.3,TRUE,Madhya Pradesh,Walking,TRUE,TRUE,2.9,FALSE
+M,Chetan Gupta,12,FALSE,FALSE,1,Urban,4.2,FALSE,Maharashtra,Public Transportation,TRUE,TRUE,2,FALSE
+F,Disha Patel,10,FALSE,FALSE,0,Rural,3.2,TRUE,Gujarat,Walking,TRUE,TRUE,2.1,FALSE
+M,Harsh Sharma,13,FALSE,TRUE,2,Urban,2.8,FALSE,Karnataka,Public Transportation,TRUE,TRUE,3.6,FALSE
+F,Heena Singh,12,FALSE,FALSE,2,Rural,2.7,FALSE,Uttar Pradesh,Walking,TRUE,TRUE,3.1,FALSE
+M,Ishaan Khan,11,FALSE,FALSE,1,Urban,4.3,TRUE,Maharashtra,School Bus,TRUE,TRUE,2.8,FALSE
+F,Fatima Sheikh,14,FALSE,FALSE,2,Rural,2.4,FALSE,Rajasthan,Walking,TRUE,TRUE,3.3,TRUE
+M,Gaurav Yadav,12,FALSE,FALSE,3,Urban,3.6,FALSE,Delhi,Public Transportation,TRUE,TRUE,2.5,FALSE
+F,Geeta Reddy,13,FALSE,FALSE,1,Rural,2.6,TRUE,Andhra Pradesh,Walking,TRUE,TRUE,3.8,FALSE
+M,Himanshu Singh,11,FALSE,FALSE,0,Urban,4.8,FALSE,Haryana,School Bus,TRUE,TRUE,3.2,FALSE
+F,Hina Gupta,15,FALSE,FALSE,4,Rural,1.9,FALSE,Chhattisgarh,Walking,FALSE,TRUE,4.1,TRUE
+M,Ishaan Patel,12,FALSE,FALSE,2,Urban,3.1,TRUE,Gujarat,Public Transportation,TRUE,TRUE,2.2,FALSE
+F,Inaaya Khan,13,FALSE,FALSE,1,Rural,2.5,FALSE,Maharashtra,Walking,TRUE,TRUE,3.1,FALSE
+M,Aarav Singh,13,FALSE,FALSE,2,Urban,4,TRUE,Uttar Pradesh,School Bus,TRUE,TRUE,4.2,FALSE
+F,Aadhya Sharma,11,FALSE,FALSE,1,Rural,2.5,FALSE,Punjab,Walking,TRUE,TRUE,2.5,FALSE
+M,Advait Patel,12,FALSE,TRUE,3,Urban,3,FALSE,Gujarat,Public Transportation,TRUE,TRUE,1.8,TRUE
+F,Aditi Desai,14,FALSE,FALSE,2,Rural,2.2,TRUE,Maharashtra,Walking,TRUE,TRUE,2.9,FALSE
+M,Aryan Gupta,10,FALSE,FALSE,0,Urban,4.5,FALSE,Delhi,School Bus,TRUE,TRUE,3.6,FALSE
+F,Anaya Shah,15,FALSE,FALSE,4,Rural,1.8,FALSE,Rajasthan,Walking,FALSE,FALSE,4.1,TRUE
+M,Arjun Iyer,12,FALSE,FALSE,2,Urban,3.5,TRUE,Tamil Nadu,Public Transportation,TRUE,TRUE,2.1,FALSE
+F,Avni Reddy,13,FALSE,FALSE,1,Rural,2.7,FALSE,Telangana,Walking,TRUE,TRUE,3.5,FALSE
+M,Daksh Singh,11,FALSE,FALSE,3,Urban,3.2,FALSE,Haryana,School Bus,TRUE,TRUE,2.4,FALSE
+F,Devika Mishra,14,FALSE,FALSE,2,Rural,2.4,TRUE,Madhya Pradesh,Walking,TRUE,TRUE,3.2,FALSE
+M,Chirag Gupta,12,FALSE,FALSE,1,Urban,3.8,FALSE,Maharashtra,Public Transportation,TRUE,TRUE,2.3,FALSE
+F,Disha Shah,10,FALSE,FALSE,0,Rural,3,TRUE,Gujarat,Walking,TRUE,TRUE,1.9,FALSE
+M,Eshan Sharma,13,FALSE,TRUE,2,Urban,2.9,FALSE,Karnataka,Public Transportation,TRUE,TRUE,3.1,FALSE
+F,Ekta Singh,12,FALSE,FALSE,2,Rural,2.6,FALSE,Uttar Pradesh,Walking,TRUE,TRUE,2.7,FALSE
+M,Farhan Khan,11,FALSE,FALSE,1,Urban,4,TRUE,Maharashtra,School Bus,TRUE,TRUE,3.2,FALSE
+F,Fatima Sheikh,14,FALSE,FALSE,2,Rural,2.2,FALSE,Rajasthan,Walking,TRUE,TRUE,3.8,TRUE
+M,Gaurav Yadav,12,FALSE,FALSE,3,Urban,3.5,FALSE,Delhi,Public Transportation,TRUE,TRUE,2.2,FALSE
+F,Gayatri Reddy,13,FALSE,FALSE,1,Rural,2.7,TRUE,Andhra Pradesh,Walking,TRUE,TRUE,4,FALSE
+M,Himanshu Singh,11,FALSE,FALSE,0,Urban,4.5,FALSE,Haryana,School Bus,TRUE,TRUE,3.4,FALSE
+F,Hina Gupta,15,FALSE,FALSE,4,Rural,1.8,FALSE,Chhattisgarh,Walking,FALSE,TRUE,4.2,TRUE
+M,Ishaan Patel,12,FALSE,FALSE,2,Urban,3.2,TRUE,Gujarat,Public Transportation,TRUE,TRUE,2.5,FALSE
+F,Inaaya Khan,13,FALSE,FALSE,1,Rural,2.4,FALSE,Maharashtra,Walking,TRUE,TRUE,3.3,FALSE
+M,Aarav Patel,13,FALSE,FALSE,2,Urban,5,TRUE,Gujarat,School Bus,TRUE,TRUE,2.5,FALSE
+F,Aadhya Singh,11,FALSE,FALSE,1,Rural,2,FALSE,Maharashtra,Walking,TRUE,TRUE,3.2,FALSE
+M,Advait Kumar,12,FALSE,TRUE,3,Urban,3.5,FALSE,Delhi,Public Transportation,TRUE,TRUE,1.9,TRUE
+F,Aditi Sharma,14,FALSE,FALSE,2,Rural,2.5,TRUE,Karnataka,Walking,TRUE,TRUE,3.8,FALSE
+M,Aryan Gupta,10,FALSE,FALSE,0,Urban,4,FALSE,Maharashtra,School Bus,TRUE,TRUE,2.8,FALSE
+F,Anaya Shah,15,FALSE,FALSE,4,Rural,1.8,FALSE,Andhra Pradesh,Walking,FALSE,FALSE,4,TRUE
+M,Arjun Iyer,12,FALSE,FALSE,2,Urban,3.2,TRUE,Tamil Nadu,Public Transportation,TRUE,TRUE,2,FALSE
+F,Avni Reddy,13,FALSE,FALSE,1,Rural,2.8,FALSE,Telangana,Walking,TRUE,TRUE,3.6,FALSE
+M,Daksh Singh,11,FALSE,FALSE,3,Urban,3,FALSE,Uttar Pradesh,School Bus,TRUE,TRUE,1.7,FALSE
+F,Devika Mishra,14,FALSE,FALSE,2,Rural,2.3,TRUE,Madhya Pradesh,Walking,TRUE,TRUE,3,FALSE
+M,Chirag Gupta,12,FALSE,FALSE,1,Urban,3.8,FALSE,Gujarat,Public Transportation,TRUE,TRUE,1.8,FALSE
+F,Disha Shah,10,FALSE,FALSE,0,Rural,2.9,TRUE,Rajasthan,Walking,TRUE,TRUE,1.5,FALSE
+M,Eshan Sharma,13,FALSE,TRUE,2,Urban,2.8,FALSE,Karnataka,Public Transportation,TRUE,TRUE,2.9,FALSE
+F,Ekta Singh,12,FALSE,FALSE,2,Rural,2.7,FALSE,Uttar Pradesh,Walking,TRUE,TRUE,2.5,FALSE
+M,Farhan Khan,11,FALSE,FALSE,1,Urban,4.5,TRUE,Maharashtra,School Bus,TRUE,TRUE,2.2,FALSE
+F,Fatima Sheikh,14,FALSE,FALSE,2,Rural,2.4,FALSE,Chhattisgarh,Walking,TRUE,TRUE,3.5,TRUE
+M,Gaurav Yadav,12,FALSE,FALSE,3,Urban,3.2,FALSE,Delhi,Public Transportation,TRUE,TRUE,2.1,FALSE
+F,Gayatri Reddy,13,FALSE,FALSE,1,Rural,2.9,TRUE,Andhra Pradesh,Walking,TRUE,TRUE,3.9,FALSE
+M,Himanshu Singh,11,FALSE,FALSE,0,Urban,4.2,FALSE,Haryana,School Bus,TRUE,TRUE,2.9,FALSE
+F,Hina Gupta,15,FALSE,FALSE,4,Rural,1.7,FALSE,Punjab,Walking,FALSE,TRUE,4.1,TRUE
+M,Ishaan Patel,12,FALSE,FALSE,2,Urban,3.4,TRUE,Gujarat,Public Transportation,TRUE,TRUE,2.3,FALSE
+F,Inaaya Khan,13,FALSE,FALSE,1,Rural,2.5,FALSE,Maharashtra,Walking,TRUE,TRUE,3.1,FALSE
+M,Rohit,13,FALSE,FALSE,2,Urban,0.4,TRUE,Maharashtra,Public,TRUE,TRUE,2,FALSE
+F,Priya,12,FALSE,FALSE,1,Rural,0.25,FALSE,Uttar Pradesh,Private,TRUE,FALSE,5,TRUE
+M,Aditya,15,FALSE,TRUE,3,Urban,0.8,TRUE,Karnataka,Public,TRUE,TRUE,1.5,FALSE
+F,Aarushi,10,FALSE,FALSE,2,Rural,0.2,FALSE,Rajasthan,Private,FALSE,TRUE,4,FALSE
+M,Siddharth,14,FALSE,FALSE,1,Urban,0.7,TRUE,Tamil Nadu,Public,TRUE,TRUE,3,FALSE
+F,Kavya,11,FALSE,TRUE,2,Rural,0.3,FALSE,Bihar,Private,TRUE,FALSE,6,TRUE
+M,Aryan,13,FALSE,FALSE,3,Urban,0.6,TRUE,Gujarat,Public,TRUE,TRUE,2.5,FALSE
+F,Jyoti,12,FALSE,FALSE,2,Rural,0.35,FALSE,West Bengal,Private,TRUE,TRUE,3.5,FALSE
+M,Mohit,14,FALSE,TRUE,1,Urban,0.9,TRUE,Punjab,Public,TRUE,TRUE,1,FALSE
+F,Tanvi,11,FALSE,FALSE,2,Rural,0.28,FALSE,Madhya Pradesh,Private,FALSE,TRUE,4.5,TRUE
+M,Raj,15,FALSE,FALSE,2,Urban,0.75,TRUE,Uttar Pradesh,Public,TRUE,TRUE,2,FALSE
+F,Anjali,10,FALSE,TRUE,3,Rural,0.19,FALSE,Maharashtra,Private,TRUE,FALSE,5.5,TRUE
+M,Kartik,13,FALSE,FALSE,2,Urban,0.65,TRUE,Haryana,Public,TRUE,TRUE,2.5,FALSE
+F,Swati,12,FALSE,FALSE,1,Rural,0.31,FALSE,Gujarat,Private,TRUE,TRUE,4,TRUE
+M,Arjun,15,FALSE,TRUE,2,Urban,0.8,TRUE,Andhra Pradesh,Public,TRUE,TRUE,1,FALSE
+F,Meera,10,FALSE,FALSE,3,Rural,0.23,FALSE,Kerala,Private,TRUE,TRUE,5,TRUE
+M,Ravi,14,FALSE,FALSE,2,Urban,0.7,TRUE,Uttar Pradesh,Public,TRUE,TRUE,2,FALSE
+F,Neetu,11,FALSE,TRUE,2,Rural,0.35,FALSE,West Bengal,Private,TRUE,TRUE,3.5,FALSE
+M,Alok,13,FALSE,FALSE,1,Urban,0.5,TRUE,Maharashtra,Public,TRUE,TRUE,2,FALSE
+F,Kritika,12,FALSE,FALSE,2,Rural,0.32,FALSE,Rajasthan,Private,TRUE,TRUE,4,TRUE
+M,Rishabh,14,FALSE,TRUE,3,Urban,0.9,TRUE,Delhi,Public,TRUE,TRUE,1.5,FALSE
+F,Ashwini,10,FALSE,FALSE,1,Rural,0.21,FALSE,Madhya Pradesh,Private,TRUE,TRUE,5,TRUE
+M,Vikas,15,FALSE,FALSE,2,Urban,0.75,TRUE,Karnataka,Public,TRUE,TRUE,2,FALSE
+F,Shalini,11,FALSE,TRUE,3,Rural,0.29,FALSE,Andhra Pradesh,Private,TRUE,FALSE,5.5,TRUE
