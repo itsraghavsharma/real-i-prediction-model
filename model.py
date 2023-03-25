@@ -8,7 +8,7 @@ from xgboost import XGBClassifier
 
 app = Flask(__name__)
 
-@app.route('/predict', methods=['POST'])
+@app.route('/predict', methods=['GET'])
 def get_predection1():
     print("Here1")
     new_prediction_data = request.form
